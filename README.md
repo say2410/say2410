@@ -1,15 +1,29 @@
-<p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1&pause=&color=F71D85&center=true&vCenter=true&repeat=false&random=false&width=435&lines=Sayali+Kadam" alt="Sayali Kadam" /></a>
+<p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&duration=5&pause=1000&center=true&vCenter=true&repeat=false&random=false&width=435&lines=Sayali+Kadam" alt="Sayali Kadam" /></a>
 </p>
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=500&color=F71D85&center=true&vCenter=true&repeat=false&random=false&width=435&lines=Hello!;I'm+currently+exploring+MERN.;Would+love+to+connect+%3A)" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&duration=3000&pause=1000&center=true&vCenter=true&random=false&width=435&lines=Currently+Exploring+MERN;Would+love+to+connect+%3A)" alt="Typing SVG" /></a>
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/sayali-kadam-732588268/"><img width="32px" height ="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/yRpa1dQ.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://www.linkedin.com/in/sayali-kadam-732588268/"><img alt="guilyx's LinkdeIN" width="50px" src="https://user-images.githubusercontent.com/43545812/144035037-0f415fc7-9f96-4517-a370-ccc6e78a714b.png" /></a>
+  
   
 </p>
+
+```python
+"name": "Sayali",
+"education": "Currently 2nd year Computer Science student at IIIT Jabalpur",
+"code": ["Javascript", "Python", "C", "C++"],
+"technologies": {
+  "backEnd": {
+    "js": ["Node", "Express", "Python"]
+  },
+  "frontEnd": ["React", "HTML", "CSS"],
+  "databases": ["MongoDB", "MySql", "Neo4j"]
+}
+```
+
 
 <details> 
   <summary><h2>🛠️ My Favorite Tools</h2></summary>
