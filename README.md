@@ -16,7 +16,6 @@ struct Sayali {
     string name = "Sayali";
     string education = "Currently 2nd year Computer Science Student from IIIT Jabalpur";
     vector<string> code = {"Javascript", "Python", "C", "C++"};
-    vector<string> askMeAbout = {"web dev", "tech", "Open Source", "Books"};
     unordered_map<string, vector<string>> technologies = {
         {"backEnd", {"Node", "Express", "Python"}},
         {"frontEnd", {"React", "HTML", "CSS"}},
