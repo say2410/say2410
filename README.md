@@ -14,7 +14,7 @@
 ```C++
 struct Sayali {
     string name = "Sayali";
-    string education = "Currently 2nd year Computer Science Student from IIIT Jabalpur";
+    string education = "Currently 3rd year Computer Science Student from IIIT Jabalpur";
     vector<string> code = {"Javascript", "Python", "C", "C++"};
     unordered_map<string, vector<string>> technologies = {
         {"backEnd", {"Node", "Express", "Python"}},
